@@ -1,0 +1,10 @@
+requests
+tqdm
+pandas
+tabulate
+mysql-connector-python
+numpy
+sqlalchemy
+scikit-learn
+pymysql
+email
