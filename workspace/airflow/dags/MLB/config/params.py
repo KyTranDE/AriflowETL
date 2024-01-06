@@ -1,11 +1,4 @@
-host = '27.65.42.145'
-user = 'bbsw'
-port = '6666'
-password = 'BBsw@1123'
-# host = 'localhost'
-# user = 'root'
-# port = '3306'
-# password = '20020541'
+
 database = 'mlb'
 sql_path = '..\\data\\mlb.sql'
 
